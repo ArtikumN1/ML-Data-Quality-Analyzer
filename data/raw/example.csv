@@ -1,0 +1,7 @@
+age,income,country,review,target
+25,50000,USA,Great product,1
+42,90000,Germany,Bad quality,0
+35,70000,France,Very good,1
+,-1000,USA,,0
+150,80000,USA,Excellent product,1
+25,50000,USA,Great product,1
