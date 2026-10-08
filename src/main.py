@@ -38,3 +38,6 @@ print("\nNUMERIC ISSUES")
 
 for column, issues in numeric_report.items():
     print(f"{column}:")
+
+    for issue, values in issues.items():
+        print(f"  {issue}: {values}")
